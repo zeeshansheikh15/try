@@ -1,4 +1,4 @@
-package com.example.trial.security;
+package com.example.trial.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
